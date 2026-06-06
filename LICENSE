@@ -1,33 +1,74 @@
-All Rights Reserved
-Copyright (c) 2026 neobarium
+Personal Study License (Proprietary)
+Copyright (c) 2026 neobarium. All Rights Reserved.
 
-This work — including the question text, options, explanations in any language,
-and the database/JSON schema as expressed in this repository — is proprietary
-and confidential.
+================================================================================
+SUMMARY (informal — the binding terms are below)
+================================================================================
+  YES  You may download these files and use them PRIVATELY for your own
+       personal Japanese-language self-study.
+  NO   You may NOT redistribute, mirror, share, or repost these files anywhere.
+  NO   You may NOT use any part of this work to build, train, evaluate, or
+       benchmark another app, dataset, or machine-learning model.
+  NO   You may NOT use this work for any commercial purpose.
 
-NO RIGHTS GRANTED. You may NOT, without prior written permission from the
-copyright holder:
+================================================================================
+PERMITTED USE
+================================================================================
+You may, without separate permission:
 
-  - Copy, reproduce, redistribute, mirror, or republish any part of this work,
-    in original or modified form, on any platform (websites, apps, datasets,
-    LLM training corpora, public repositories, search engines, etc).
-  - Use any part of this work, in original or modified form, to develop,
-    train, fine-tune, evaluate, or benchmark any commercial or non-commercial
-    application, software, model, or service.
-  - Sell, sublicense, lease, lend, or otherwise transfer this work or any
-    derivative of it.
-  - Remove, alter, or obscure this notice.
+  (a) Download these files for your own personal Japanese-language self-study,
+      onto devices you personally own and use, for non-commercial purposes.
 
-The contents of this repository are made available solely to power the
-official mobile app(s) authored by the copyright holder. Any other use is
-unauthorized and may be subject to civil and/or criminal penalties under
-applicable copyright, database, and unfair-competition laws.
+================================================================================
+RESTRICTED USE — NOT GRANTED WITHOUT PRIOR WRITTEN PERMISSION
+================================================================================
+The following uses are NOT permitted under this License, and require prior
+written permission from the copyright holder:
 
-If you have downloaded this content automatically (e.g. as part of an LLM
-training crawl), please remove it from your dataset and refrain from
+  (b) Redistributing, mirroring, re-publishing, or sharing these files (in
+      original or modified form) on any platform — including but not limited
+      to websites, mobile or desktop apps, public or private code
+      repositories, datasets, mailing lists, chat groups, file-sharing
+      services, torrent networks, and AI / LLM training corpora.
+
+  (c) Sharing copies of these files with other persons by any means, even
+      privately, even for free, even for educational purposes outside of
+      your own personal study.
+
+  (d) Using any part of this work (the questions, options, explanations in
+      any language, schema, or selection/arrangement thereof), in original
+      or modified form, to develop, train, fine-tune, evaluate, distill, or
+      benchmark any application, software, model, or service.
+
+  (e) Selling, sublicensing, leasing, lending, renting, or otherwise
+      transferring this work or any derivative work based on it.
+
+  (f) Any commercial use of any kind.
+
+  (g) Removing, altering, or obscuring this License notice or the
+      copyright notice.
+
+================================================================================
+WHY THESE FILES ARE PUBLISHED HERE
+================================================================================
+These contents are published on GitHub solely so that the official mobile
+app(s) authored by the copyright holder can fetch content updates over HTTPS.
+Personal copies for an individual reader's own study are tolerated. Any other
+use is unauthorized.
+
+If you arrived here from an automated crawler or as part of an LLM training
+pipeline, please remove this content from your dataset and refrain from
 including it in derived models.
 
-For permission requests, contact the copyright holder through
-https://github.com/neobarium.
+================================================================================
+REQUESTS FOR PERMISSION
+================================================================================
+For permission requests for any use not granted above, contact the copyright
+holder via the GitHub profile at https://github.com/neobarium.
 
-THIS WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+================================================================================
+DISCLAIMER
+================================================================================
+THIS WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.

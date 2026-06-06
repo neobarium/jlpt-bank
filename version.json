@@ -1,6 +1,6 @@
 {
   "version": "v1.1.0",
-  "url": "./v1.1.0/jlpt_n5_free.json",
+  "url": "./v1.1.0/jlpt_all.json",
   "released_at": "2026-06-07",
-  "notes": "Free N5 bank (100 Qs). N4/N3 banks are Premium-only and not distributed via this repo. See app for purchase options."
+  "notes": "14-language localization: explanations in EN + 13 translations (DE/FR/ID/KO/MY/NE/PT-BR/RU/TH/TL/VI/ZH-Hans/ZH-Hant). 300 questions x N5/N4/N3 x 5 categories. Personal Study License — see LICENSE."
 }

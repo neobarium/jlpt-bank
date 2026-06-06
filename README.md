@@ -1,14 +1,24 @@
-# jlpt-bank (Proprietary)
+# jlpt-bank — Personal Study License
 
-⚠ **All Rights Reserved.** No part of this repository may be copied,
-redistributed, or used to develop other applications, datasets, or models.
-See `LICENSE`.
+⚠ **Personal Study License (proprietary).** See `LICENSE` for the full terms.
+The very short version:
 
-This repository hosts the question and explanation bank for the proprietary
-JLPT quiz mobile app authored by `neobarium`. It is published here solely so
-that the official app can fetch updates over HTTPS. Any other use is
-unauthorized.
+- ✅ You **may** download these files and use them **privately** for your own
+  Japanese-language self-study.
+- ❌ You **may not** redistribute, mirror, repost, or share these files
+  anywhere, in any form.
+- ❌ You **may not** use them to train or evaluate an AI/LLM, or to build
+  another app, dataset, or service.
+- ❌ You **may not** use them commercially.
 
-If you arrived here from an automated crawler, please do not include this
-content in your dataset. Removal requests for already-ingested copies are
-welcome via the GitHub profile page.
+This repository hosts the question and explanation bank for the official
+JLPT quiz mobile app authored by `neobarium`. It is published here so the
+official app can fetch content updates over HTTPS, and so that individuals
+can use the content for their own personal self-study. Any other use is
+unauthorized and may be subject to civil and/or criminal action under
+applicable copyright and database protection laws.
+
+If you arrived here from an automated crawler or as part of an LLM training
+pipeline, please remove this content from your dataset.
+
+For permission requests, contact `neobarium` via GitHub.
