@@ -1,0 +1,6 @@
+{
+  "version": "v1.0.0",
+  "url": "./v1.0.0/jlpt_all.json",
+  "released_at": "2026-06-06",
+  "notes": "Initial release: JLPT N5+N4+N3 = 300 questions, with VI explanations for N5."
+}
