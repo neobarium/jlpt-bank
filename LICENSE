@@ -1,24 +1,33 @@
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
-
+All Rights Reserved
 Copyright (c) 2026 neobarium
 
-This work is licensed under the Creative Commons
-Attribution-NonCommercial-ShareAlike 4.0 International License.
+This work — including the question text, options, explanations in any language,
+and the database/JSON schema as expressed in this repository — is proprietary
+and confidential.
 
-You are free to:
-  Share — copy and redistribute the material in any medium or format
-  Adapt — remix, transform, and build upon the material
+NO RIGHTS GRANTED. You may NOT, without prior written permission from the
+copyright holder:
 
-Under the following terms:
-  Attribution — You must give appropriate credit, provide a link to the
-    license, and indicate if changes were made.
-  NonCommercial — You may not use the material for commercial purposes.
-  ShareAlike — If you remix, transform, or build upon the material, you must
-    distribute your contributions under the same license as the original.
+  - Copy, reproduce, redistribute, mirror, or republish any part of this work,
+    in original or modified form, on any platform (websites, apps, datasets,
+    LLM training corpora, public repositories, search engines, etc).
+  - Use any part of this work, in original or modified form, to develop,
+    train, fine-tune, evaluate, or benchmark any commercial or non-commercial
+    application, software, model, or service.
+  - Sell, sublicense, lease, lend, or otherwise transfer this work or any
+    derivative of it.
+  - Remove, alter, or obscure this notice.
 
-No additional restrictions — You may not apply legal terms or technological
-measures that legally restrict others from doing anything the license permits.
+The contents of this repository are made available solely to power the
+official mobile app(s) authored by the copyright holder. Any other use is
+unauthorized and may be subject to civil and/or criminal penalties under
+applicable copyright, database, and unfair-competition laws.
 
-To view a full copy of this license, visit
-  https://creativecommons.org/licenses/by-nc-sa/4.0/
-or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+If you have downloaded this content automatically (e.g. as part of an LLM
+training crawl), please remove it from your dataset and refrain from
+including it in derived models.
+
+For permission requests, contact the copyright holder through
+https://github.com/neobarium.
+
+THIS WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
