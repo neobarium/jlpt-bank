@@ -4,7 +4,7 @@ JLPT (Japanese-Language Proficiency Test) practice **question bank** consumed by
 
 - All questions are **100% original** — emulating the JLPT format and difficulty but never copying any official past question.
 - Levels included: **N5 / N4 / N3** (100 questions each, 5 categories: kanji reading, vocabulary-in-context, grammar form, sentence ordering ★, short reading).
-- Explanation language: **English** (Vietnamese available for N5).
+- Explanation languages (v1.1.0): **14 languages** — original English plus DE / FR / ID / KO / MY / NE / PT-BR / RU / TH / TL / VI / ZH-Hans / ZH-Hant.
 - Format: single JSON per release tag.
 
 ## Layout
