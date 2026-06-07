@@ -1,6 +1,6 @@
 {
-  "version": "v1.1.0",
-  "url": "./v1.1.0/jlpt_all.json",
+  "version": "v1.2.0",
+  "url": "./v1.2.0/jlpt_all.json",
   "released_at": "2026-06-07",
-  "notes": "14-language localization: explanations in EN + 13 translations (DE/FR/ID/KO/MY/NE/PT-BR/RU/TH/TL/VI/ZH-Hans/ZH-Hant). 300 questions x N5/N4/N3 x 5 categories. Personal Study License — see LICENSE."
+  "notes": "5x content expansion: 2981 questions across N1-N5 x 5 categories (was 300). Explanations: EN complete; 13 translations in progress (coverage varies: ru/ko/fr ~40%, others partial). Personal Study License - see LICENSE."
 }
