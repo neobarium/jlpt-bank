@@ -1,6 +1,6 @@
 {
-  "version": "v1.2.0",
-  "url": "./v1.2.0/jlpt_all.json",
-  "released_at": "2026-06-07",
-  "notes": "5x content expansion: 2981 questions across N1-N5 x 5 categories (was 300). Explanations: EN complete; 13 translations in progress (coverage varies: ru/ko/fr ~40%, others partial). Personal Study License - see LICENSE."
+  "version": "v1.3.0",
+  "url": "./v1.3.0/jlpt_all.json",
+  "released_at": "2026-06-08",
+  "notes": "2981 questions, EN complete. 13-language explanations: target-market langs well covered (TH 99%, MY 97%, TL 96%, PT-BR 82%, VI 78%, NE 71%, ID 68%, ZH-Hans 71%, ZH-Hant 79%); EU langs partial (KO/RU ~50%, FR 37%, DE 22%) and being completed. Personal Study License - see LICENSE."
 }
