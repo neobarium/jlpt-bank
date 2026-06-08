@@ -1,6 +1,6 @@
 {
-  "version": "v1.4.0",
-  "url": "./v1.4.0/jlpt_all.json",
-  "released_at": "2026-06-08",
-  "notes": "3211 questions = 2981 text + 230 ORIGINAL listening (聴解) across N5-N1 (kadai/point/gaiyou/hatsuwa/sokutou/tougou). Listening audio is bundled in the APK (relative 'audio/<id>.mp3' urls resolve to app assets, NOT hosted here), so listening playback requires the v1.4.0+ app build. Text explanations 13-lang as in v1.3.0. Personal Study License - see LICENSE."
+  "version": "v1.4.1",
+  "url": "./v1.4.1/jlpt_all.json",
+  "released_at": "2026-06-09",
+  "notes": "3211 questions = 2981 text + 230 ORIGINAL listening (聴解) across N5-N1. v1.4.1: listening audio scripts speak the question ONCE (removed redundant narrator re-ask; the app shows the question on screen). Listening audio is bundled in the v1.4.1+ APK (relative 'audio/<id>.mp3' urls resolve to app assets, NOT hosted here). Text explanations 13-lang as in v1.3.0. Personal Study License - see LICENSE."
 }
